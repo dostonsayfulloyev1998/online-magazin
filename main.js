@@ -7,7 +7,7 @@ new Vue({
     methods:{
         add:function (){
 
-
+              //ytrytrye
 
         }
     }
