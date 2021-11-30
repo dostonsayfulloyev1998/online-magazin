@@ -6,7 +6,9 @@ new Vue({
     },
     methods:{
         add:function (){
-            id++
+
+
+
         }
     }
 
