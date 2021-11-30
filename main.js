@@ -3,5 +3,11 @@ new Vue({
     data:{
         name:"Tolibjon",
         surname:"Hoshimov"
+    },
+    methods:{
+        add:function (){
+
+        }
     }
+
 })
