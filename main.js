@@ -6,7 +6,7 @@ new Vue({
     },
     methods:{
         add:function (){
-            ksdpigoidrjgoierjgoij
+            id++
         }
     }
 
