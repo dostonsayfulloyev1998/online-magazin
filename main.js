@@ -8,8 +8,10 @@ new Vue({
         add:function (){
 
               //ytrytrye
+            //mother ....
 
         }
     }
+
 
 })
